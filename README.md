@@ -1,7 +1,7 @@
 <img src="https://ailifebot.com/images/pkasy.gif" alt="MERN" width="5000px" height="359px">
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Farooq</h1>
 <h3 align="center">A passionate MERN Stack && AI Chatbot Developer from Pakistan</h3>
-<img src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif" alt="MERN || AI Chatbot" align="right"  width="200" />
+<img src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif" alt="MERN || AI Chatbot" align="right"  width="50px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamzafarooq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamzafarooq" /> </p>
 
