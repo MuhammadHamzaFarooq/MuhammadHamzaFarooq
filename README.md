@@ -1,4 +1,4 @@
-<img src="https://ailifebot.com/images/pkasy.gif" alt="MERN" width="700px" height="359px">
+<img src="https://ailifebot.com/images/pkasy.gif" alt="MERN" width="850px" height="359px">
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Farooq</h1>
 <h3 align="center">A passionate MERN Stack && AI Chatbot Developer from Pakistan</h3>
 <img src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif" alt="MERN || AI Chatbot" align="right"  width="400"/>
