@@ -1,6 +1,6 @@
 ## Muhammad Hamza Farooq
 
-Full-stack engineer in Karachi. Four-plus years shipping production web and mobile applications in TypeScript, Node.js, React and React Native.
+Full-stack engineer in Karachi. Five-plus years shipping production web and mobile applications in TypeScript, Node.js, React and React Native.
 
 Currently extending that into AI systems engineering — the part after the demo works.
 
