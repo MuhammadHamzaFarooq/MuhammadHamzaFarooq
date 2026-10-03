@@ -38,7 +38,7 @@ AI — LLM APIs, embeddings, vector search, RAG, agents, Amazon Bedrock
 
 I publish what I learn, including what breaks.
 
-https://www.linkedin.com/in/muhammad-hamza-farooq-815024186/
+(https://www.linkedin.com/in/muhammadhamzafarooq/)
 
 ### Contact
 
